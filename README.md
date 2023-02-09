@@ -13,6 +13,7 @@ Tenho 34 anos e sou de Uberlândia, Minas Gerais.
 
 ![Paulo H GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloazevedo-udi&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloazevedo-udi)](https://github.com/pauloazevedo-udi/github-readme-stats)
 
 ## Técnologias que estou estudando no momento
 
