@@ -11,9 +11,6 @@ Tenho 34 anos e sou de Uberlândia, Minas Gerais.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-azevedo-158543240/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984323105&text=)
 
-![Paulo H GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloazevedo-udi&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloazevedo-udi)](https://github.com/pauloazevedo-udi/github-readme-stats)
 
 ## Técnologias que estou estudando no momento
 
