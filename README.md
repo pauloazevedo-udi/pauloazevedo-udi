@@ -3,7 +3,7 @@ Tenho 34 anos e sou de Uberlândia, Minas Gerais.
 
 🧑🏽‍🎓Estou fazendo duas graduações: Ciências da Computação e Gestão de TI.
 
-🚀 Estou no Programa Desenvolve do Grupo Boticário na trilha de  DESENVOLVEDOR FULLSTACK em parceria com a Alura. Estou apaixonado com isso!
+🚀 Estou no Bootcamp do Santander na Trilha DESENVOLVEDOR BACKEND, em parceria com a DIO. Estou apaixonado com isso!
 
 🧠 Também estou me especializando em SQL, PL/SQL e Postman.
 
