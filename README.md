@@ -9,17 +9,16 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - **Gestão da Tecnologia da Informação**
 
 🎯 Atualmente estou me especializando em **Engenharia de Qualidade de Software (QA)** pela **EBAC**, adquirindo competências avançadas em:
-- Testes manuais e automatizados  
-- Criação de planos, estratégias e cenários de testes  
-- Automação com **Selenium, Cypress e Playwright**  
-- API Testing com **Postman** e **RestAssured**  
-- SQL para validações em banco de dados  
-- Versionamento com Git e GitHub  
-- Integração Contínua (CI/CD)  
-- Cultura ágil e QA no fluxo de desenvolvimento  
-- BDD com Cucumber  
-- Testes de performance e segurança  
-- Boas práticas de qualidade, engenharia e documentação
+- Princípios de **qualidade de software**, **pirâmide de testes** e abordagem **shift left**  
+- Criação de **planos**, **estratégias** e **cenários de teste** (incluindo **Gherkin**)  
+- Testes **funcionais** e **não funcionais** para **Web**, **Mobile** e **API**  
+- Testes manuais e **automação** com **Selenium**, **Cypress**, **Playwright** e **JavaScript**  
+- Testes de **API** (métodos **GET/POST/PUT/DELETE**), validação de **contratos** e **integração entre sistemas**  
+- Validação de dados e consultas em bancos **SQL** e **NoSQL**  
+- **Integração Contínua (CI/CD)**, versionamento com **Git/GitHub** e cultura **DevOps**  
+- Testes de **desempenho** e **segurança** (ex.: **JMeter**, análise de vulnerabilidades)  
+- **Documentação**, **métricas de qualidade** e atuação colaborativa no **fluxo ágil**  
+- Desenvolvimento de **portfólio técnico** e participação em **projetos reais**
 
 ## 🚀 Caminho profissional em tecnologia
 Atualmente também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
