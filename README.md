@@ -8,6 +8,8 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - **Ciências da Computação**  
 - **Gestão da Tecnologia da Informação**
 
+## 🚀 Caminho profissional em tecnologia
+
 🎯 Atualmente estou me especializando em **Engenharia de Qualidade de Software (QA)** pela **EBAC**, adquirindo competências avançadas em:
 - Princípios de **qualidade de software**, **ciclo de vida**, **pirâmide de testes** e abordagem **shift left**  
 - Criação de **planos**, **estratégias**, **cenários** e **critérios de aceitação** usando **Gherkin**  
@@ -26,7 +28,6 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - Desenvolvimento de **portfólio técnico**, com projetos práticos Web/Mobile/API  
 - Execução de projeto completo de QA: do plano → execução → automação → relatório final pleto com: plano de testes, automação, documentação, relatórios e entrega estruturada.
 
-## 🚀 Caminho profissional em tecnologia
 Atualmente também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
 - Java  
 - Spring Framework  
