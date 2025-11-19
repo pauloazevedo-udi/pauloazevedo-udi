@@ -9,16 +9,22 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - **Gestão da Tecnologia da Informação**
 
 🎯 Atualmente estou me especializando em **Engenharia de Qualidade de Software (QA)** pela **EBAC**, adquirindo competências avançadas em:
-- Princípios de **qualidade de software**, **pirâmide de testes** e abordagem **shift left**  
-- Criação de **planos**, **estratégias** e **cenários de teste** (incluindo **Gherkin**)  
-- Testes **funcionais** e **não funcionais** para **Web**, **Mobile** e **API**  
-- Testes manuais e **automação** com **Selenium**, **Cypress**, **Playwright** e **JavaScript**  
-- Testes de **API** (métodos **GET/POST/PUT/DELETE**), validação de **contratos** e **integração entre sistemas**  
-- Validação de dados e consultas em bancos **SQL** e **NoSQL**  
-- **Integração Contínua (CI/CD)**, versionamento com **Git/GitHub** e cultura **DevOps**  
-- Testes de **desempenho** e **segurança** (ex.: **JMeter**, análise de vulnerabilidades)  
-- **Documentação**, **métricas de qualidade** e atuação colaborativa no **fluxo ágil**  
-- Desenvolvimento de **portfólio técnico** e participação em **projetos reais**
+- **Qualidade de Software e QA**: entendimento do que é qualidade, objetivos, papéis, responsabilidades, habilidades essenciais e funcionamento do mercado.  
+- **Fundamentos de Teste**: **ciclo de vida do desenvolvimento**, **pirâmide de testes**, teste **caixa preta**, **caixa branca**, erros/falhas/bugs, técnicas e princípios de teste.  
+- **Estratégia e Planejamento**: elaboração de **planos de teste**, **estratégias**, análise de risco, **cenários**, **critérios de aceitação**, escrita em **Gherkin**, compreensão de MVP.  
+- **Testes Ágeis**: conceito de **shift-left**, atuação do QA no ágil, participação em planning, refinement, review e retrospectivas.  
+- **Ambientes Mobile**: fundamentos de teste mobile Android/iOS, device farms, configuração de ambiente.  
+- **APIs & Microsserviços**: teste de **APIs REST**, validação de **contratos**, uso de **Swagger**, chamadas **GET/POST/PUT/DELETE**, fluxo de dados entre sistemas.  
+- **Bases e Performance**: testes com **SQL/NoSQL**, criação de queries, compreensão de JSON, testes de **performance** com **JMeter** e ferramentas correlatas.
+- **Automação Front-end**: uso de **Selenium**, **Cypress**, **Playwright**, DOM, seletores, scripts e estruturação de testes automatizados.  
+- **Automação Mobile**: fundamentos e prática com **Appium**, emuladores, device farms, automação híbrida e nativa.  
+- **Automação Back-end**: teste de APIs automatizadas, runners, libraries, testes de contrato, validações estruturadas.  
+- **Linguagens de Programação**: **JavaScript** e fundamentos de **programação** aplicados à automação; TDD e BDD na prática.  
+- **DevOps & CI/CD**: integração com **Git**, GitHub, **GitHub Actions**, **Jenkins**, construção de pipelines, Docker, execução automatizada.  
+- **Segurança de Software**: autenticação, autorização, **vulnerabilidades**, injeção SQL/NoSQL, análise e exploração controlada.  
+- **Métricas, Relatórios e Gestão da Qualidade**: criação de relatórios técnicos, indicadores, métricas de qualidade, comunicação eficaz com stakeholders.  
+- **Portfólio e Projeto Final**: execução prática de um projeto completo com: plano de testes, automação, documentação, relatórios e entrega estruturada.
+
 
 ## 🚀 Caminho profissional em tecnologia
 Atualmente também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
