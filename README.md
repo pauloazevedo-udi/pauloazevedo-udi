@@ -9,22 +9,22 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - **Gestão da Tecnologia da Informação**
 
 🎯 Atualmente estou me especializando em **Engenharia de Qualidade de Software (QA)** pela **EBAC**, adquirindo competências avançadas em:
-- **Qualidade de Software e QA**: entendimento do que é qualidade, objetivos, papéis, responsabilidades, habilidades essenciais e funcionamento do mercado.  
-- **Fundamentos de Teste**: **ciclo de vida do desenvolvimento**, **pirâmide de testes**, teste **caixa preta**, **caixa branca**, erros/falhas/bugs, técnicas e princípios de teste.  
-- **Estratégia e Planejamento**: elaboração de **planos de teste**, **estratégias**, análise de risco, **cenários**, **critérios de aceitação**, escrita em **Gherkin**, compreensão de MVP.  
-- **Testes Ágeis**: conceito de **shift-left**, atuação do QA no ágil, participação em planning, refinement, review e retrospectivas.  
-- **Ambientes Mobile**: fundamentos de teste mobile Android/iOS, device farms, configuração de ambiente.  
-- **APIs & Microsserviços**: teste de **APIs REST**, validação de **contratos**, uso de **Swagger**, chamadas **GET/POST/PUT/DELETE**, fluxo de dados entre sistemas.  
-- **Bases e Performance**: testes com **SQL/NoSQL**, criação de queries, compreensão de JSON, testes de **performance** com **JMeter** e ferramentas correlatas.
-- **Automação Front-end**: uso de **Selenium**, **Cypress**, **Playwright**, DOM, seletores, scripts e estruturação de testes automatizados.  
-- **Automação Mobile**: fundamentos e prática com **Appium**, emuladores, device farms, automação híbrida e nativa.  
-- **Automação Back-end**: teste de APIs automatizadas, runners, libraries, testes de contrato, validações estruturadas.  
-- **Linguagens de Programação**: **JavaScript** e fundamentos de **programação** aplicados à automação; TDD e BDD na prática.  
-- **DevOps & CI/CD**: integração com **Git**, GitHub, **GitHub Actions**, **Jenkins**, construção de pipelines, Docker, execução automatizada.  
-- **Segurança de Software**: autenticação, autorização, **vulnerabilidades**, injeção SQL/NoSQL, análise e exploração controlada.  
-- **Métricas, Relatórios e Gestão da Qualidade**: criação de relatórios técnicos, indicadores, métricas de qualidade, comunicação eficaz com stakeholders.  
-- **Portfólio e Projeto Final**: execução prática de um projeto completo com: plano de testes, automação, documentação, relatórios e entrega estruturada.
-
+- Princípios de **qualidade de software**, **ciclo de vida**, **pirâmide de testes** e abordagem **shift left**  
+- Criação de **planos**, **estratégias**, **cenários** e **critérios de aceitação** usando **Gherkin**  
+- Testes **funcionais** e **não funcionais** para **Web**, **Mobile** e **APIs**  
+- Testes manuais e **automação** com **Selenium**, **Cypress**, **Playwright** e **JavaScript**  
+- Testes de **APIs REST** (métodos **GET/POST/PUT/DELETE**), validação de **contratos** e **microsserviços**  
+- Validação de dados e consultas em **SQL** e **NoSQL**, análise de **JSON** e integridade de dados  
+- Testes de **performance** com **JMeter**, análise de carga e comportamento em altos volumes  
+- Testes de **segurança**, autenticação, autorização e detecção de **vulnerabilidades**  
+- Automação **front-end**, **mobile** e **back-end**, incluindo **Appium** e testes para aplicativos nativos  
+- Uso de **TDD**, **BDD**, boas práticas de automação e padrões de desenvolvimento de testes  
+- Configuração de pipelines de **CI/CD**, execução automatizada, uso de **Git/GitHub**, **Docker** e **Jenkins**  
+- Execução de testes em pipelines **DevOps**, integração contínua e testes em múltiplos ambientes  
+- Documentação de testes, criação de **métricas de qualidade**, relatórios e análise de indicadores  
+- Atuação colaborativa no **fluxo ágil** (Scrum/Kanban), apoiando refinement, planning, review e retrospectiva  
+- Desenvolvimento de **portfólio técnico**, com projetos práticos Web/Mobile/API  
+- Execução de projeto completo de QA: do plano → execução → automação → relatório final pleto com: plano de testes, automação, documentação, relatórios e entrega estruturada.
 
 ## 🚀 Caminho profissional em tecnologia
 Atualmente também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
