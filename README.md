@@ -28,7 +28,7 @@ Atuo na área de tecnologia e estou em constante evolução buscando me tornar u
 - Desenvolvimento de **portfólio técnico**, com projetos práticos Web/Mobile/API  
 - Execução de projeto completo de QA: do plano → execução → automação → relatório final pleto com: plano de testes, automação, documentação, relatórios e entrega estruturada.
 
-Atualmente também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
+Também participo do **Bootcamp Santander na trilha de Desenvolvimento Backend** (DIO), com foco em:
 - Java  
 - Spring Framework  
 - SQL / PL-SQL  
